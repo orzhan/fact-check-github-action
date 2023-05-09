@@ -1,2 +1,6 @@
 test file
 test line
+
+1. For Bitcoin, transactions are confirmed when they are followed by at least 6 successful blocks. 
+
+2. For Ethereum, proof of stake algorithm is used in 2023.
